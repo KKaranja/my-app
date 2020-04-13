@@ -10,8 +10,25 @@ const Main = () =>{
                     <h1>Hello Wordld!</h1>
                     <form action="" >
                         <div className="population">
-                            <label htmlFor="pupulation" className="">pupulation</label>
                             <input type="text" className="" placeholder="pupulation"  name="pupulation" />
+                        </div>
+                        <div className="population">
+                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                        </div>
+                        <div className="population">
+                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                        </div>
+                        <div className="population">
+                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                        </div>
+                        <div className="population">
+                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                        </div>
+                        <div className="population">
+                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                        </div>
+                        <div className="population">
+                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
                         </div>
                     </form>
                 </div>
