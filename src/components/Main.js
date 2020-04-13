@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css';
+
 
 const Main = () =>{
     return(
@@ -11,7 +11,7 @@ const Main = () =>{
                     <form action="" onSubmit={this.handleSubmit} noValidate>
                         <div className="population">
                             <label htmlFor="pupulation" className="">pupulation</label>
-                            <input type="text" className="" placeholder="pupulation" type="text" name="pupulation" noValidate onChange={this.handleChange}/>
+                            <input type="text" className="" placeholder="pupulation"  name="pupulation" />
                         </div>
                     </form>
                 </div>
