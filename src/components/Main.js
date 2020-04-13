@@ -1,4 +1,5 @@
 import React from 'react';
+import './Main.css';
 
 
 const Main = () =>{
@@ -12,17 +13,17 @@ const Main = () =>{
                         <div className="population">
                             <input type="text" className="" placeholder="Pupulation"  name="pupulation" />
                         </div>
-                        <div className="population">
-                            <input type="text" className="" placeholder="Time To Elapse" name="pupulation" />
+                        <div className="time-to-elapse">
+                            <input type="text" className="" placeholder="Time To Elapse" name="time to elapse" />
                         </div>
-                        <div className="population">
-                            <input type="text" className="" placeholder="Requested Cases" name="pupulation" />
+                        <div className="requested-cases">
+                            <input type="text" className="" placeholder="Requested Cases" name="requested cases" />
                         </div>
-                        <div className="population">
-                            <input type="text" className="" placeholder="Total Hospital Beds" name="pupulation" />
+                        <div className="total-hospital-beds">
+                            <input type="text" className="" placeholder="Total Hospital Beds" name="Total beds" />
                         </div>
-                        <div className="population">
-                            <input type="text" className="" placeholder="Select Period Type" name="pupulation" />
+                        <div className="period-type">
+                            <input type="text" className="" placeholder="Select Period Type" name="period type" />
                         </div>
                         
                     </form>
