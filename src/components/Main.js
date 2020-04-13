@@ -7,29 +7,24 @@ const Main = () =>{
             
             <div className="wrapper">
                 <div className="form-wrapper">
-                    <h1>Hello Wordld!</h1>
+                    <h1>Fill In Your Custom Data</h1>
                     <form action="" >
                         <div className="population">
-                            <input type="text" className="" placeholder="pupulation"  name="pupulation" />
+                            <input type="text" className="" placeholder="Pupulation"  name="pupulation" />
                         </div>
                         <div className="population">
-                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                            <input type="text" className="" placeholder="Time To Elapse" name="pupulation" />
                         </div>
                         <div className="population">
-                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                            <input type="text" className="" placeholder="Requested Cases" name="pupulation" />
                         </div>
                         <div className="population">
-                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                            <input type="text" className="" placeholder="Total Hospital Beds" name="pupulation" />
                         </div>
                         <div className="population">
-                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
+                            <input type="text" className="" placeholder="Select Period Type" name="pupulation" />
                         </div>
-                        <div className="population">
-                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
-                        </div>
-                        <div className="population">
-                            <input type="text" className="" placeholder="pupulation" name="pupulation" />
-                        </div>
+                        
                     </form>
                 </div>
             </div>
